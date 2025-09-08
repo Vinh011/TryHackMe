@@ -1,1 +1,1 @@
-# TryHackMe---Cheese-CTF
+# TryHackMe-Cheese
