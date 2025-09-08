@@ -1,1 +1,1 @@
-# TryHackMe-Cheese
+# Write up TryHackMe
