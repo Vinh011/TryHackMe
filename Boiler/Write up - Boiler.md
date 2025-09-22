@@ -1,6 +1,5 @@
-[Boiler_TryHackMe_Walkthrough.md](https://github.com/user-attachments/files/22464626/Boiler_TryHackMe_Walkthrough.md)
-# Boiler — TryHackMe Walkthrough (Sar2HTML RCE → SUID `find` → Root)  
-*(Boiler — Hướng dẫn giải trên TryHackMe (RCE Sar2HTML → SUID `find` → Root))*
+
+# Boiler — TryHackMe (Sar2HTML RCE → SUID `find` → Root)  
 
 > **Target:** `10.10.140.202` (example IP used in original write-up).  
 > *(Mục tiêu: `10.10.140.202` (IP ví dụ theo write-up gốc).)*
