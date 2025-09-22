@@ -12,7 +12,6 @@ This writeup covers a full exploitation chain: anonymous FTP → web enumeration
 *(Bài viết trình bày chuỗi khai thác: FTP anonymous → liệt kê web → command injection trên demo Sar2HTML (tham số `plot`) → lấy mật khẩu → SSH → leo quyền cục bộ bằng SUID `find`.)*
 
 **Legal notice:** only perform these steps in labs/CTF environments or systems you are authorized to test.  
-*(Lưu ý pháp lý: chỉ thực hiện trên môi trường lab/CTF hoặc hệ thống bạn được phép kiểm thử.)*
 
 ---
 
