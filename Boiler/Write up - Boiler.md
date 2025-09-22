@@ -236,7 +236,3 @@ echo htmlspecialchars($output, ENT_QUOTES, 'UTF-8');
 Flow summary: enumeration → RCE via Sar2HTML `plot` parameter → credential harvesting → SSH → SUID `find` abuse → root. Core lesson: **never trust user input** and **avoid shelling out with unsanitized data**.  
 *(Tóm tắt: enum → RCE qua `plot` Sar2HTML → lấy mật khẩu → SSH → lợi dụng SUID `find` → root. Bài học: đừng tin input người dùng; tránh gọi shell với dữ liệu chưa sanitize.)*
 
----
-
-If you want a trimmed README-style version (no parentheses translations) or want badges/links/YAML frontmatter added, tell me and I’ll output that exact markdown.  
-*(Nếu bạn muốn phiên bản README thu gọn, không có phần dịch trong ngoặc, hoặc thêm badges/link/YAML frontmatter, nói mình sẽ xuất file markdown tương ứng.)*
