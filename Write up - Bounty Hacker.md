@@ -1,4 +1,4 @@
-
+### Write up Bounty Hacker
 ## TL;DR (Quick summary)  
 - Boot2root style box: enumerate → anonymous FTP → collect wordlist → brute SSH → get user flag → abuse `sudo tar` to get root.  
 ( Tóm tắt: quét → FTP anonymous → lấy danh sách mật khẩu → brute SSH → lấy flag user → lợi dụng `sudo tar` để lên root. )
